@@ -5,8 +5,8 @@
   "main": "./index.ts",
   "types": "./index.ts",
   "peerDependencies": {
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7"
   },
   "dependencies": {
     "clsx": "^2.1.1",
